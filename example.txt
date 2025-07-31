@@ -1,0 +1,2 @@
+This is a sample file for metadata extraction.
+You can use this file to test the extract_metadata.py script.
